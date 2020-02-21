@@ -1,2 +1,2 @@
 # Machine-Learning-Labs
-Machine Learning Labs
+* Lab1: Perceptron Algorithm
